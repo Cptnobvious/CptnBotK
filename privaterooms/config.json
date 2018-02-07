@@ -1,0 +1,8 @@
+{
+    "prefix": "/",
+    "channel": "bot-commands",
+    "category": "private rooms testing",
+
+    "rentgemsrequired": 10,
+    "rentgemsperday": 1
+}
